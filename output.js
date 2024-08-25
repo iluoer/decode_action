@@ -1,4 +1,4 @@
-//Fri Aug 23 2024 12:05:12 GMT+0000 (Coordinated Universal Time)
+//Sun Aug 25 2024 03:25:17 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("竟舟");
